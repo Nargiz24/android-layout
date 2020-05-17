@@ -1,0 +1,6 @@
+<TextView
+    android:text="Anvarchik"
+    android:background="@android:color/blue"
+    android:layout_width="100dp"
+    android:layout_height="100dp" />
+		
